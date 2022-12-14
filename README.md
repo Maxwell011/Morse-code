@@ -1,31 +1,19 @@
-# curriculum-databases-projects-template
+# Morse code message
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
-
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
-
+> In the project projects, we create an automated program that can help to decrypt a morse-message
 
 ## Authors
 
-👤 **Author1**
+👤 \*\*\*\*
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle]()
+- Twitter: [@twitterhandle]()
+- LinkedIn: [LinkedIn]()
 
-👤 **Author2**
+👤 **ORJI MAXWELL**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Maxwell011)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-maxwell/)
 
 ## 🤝 Contributing
 
