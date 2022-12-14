@@ -83,11 +83,11 @@ end
 p decode_char('.-')
 
 def decode_word(str)
-  splitStr = str.split
+  split_str = str.split
 
   word = ''
 
-  splitStr.each do |char|
+  split_str.each do |char|
     word.concat(decode_char(char))
   end
 
@@ -97,20 +97,15 @@ end
 p decode_word('-- -.--')
 
 def decode_message(message)
-  splitMessage = message.split('   ')
+  split_message = message.split('   ')
 
   result = ''
 
-  splitMessage.each do |word|
+  split_message.each do |word|
     result.concat(decode_word(word))
 
-    result.concat(' ') if word != splitMessage.last
+    result.concat(' ') if word != split_message.last
   end
 
   result.upcase
 end
-
-p decode_message('-- -.--   -. .- -- .')
-
-p decode_message('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
-
