@@ -1,48 +1,167 @@
-# curriculum-databases-projects-template
+<a name="readme-top"></a>
 
-> This template should be used for database related projects at Microverse.
-> Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+<div align="left">
+  ![]()
+</div>
 
+<div align="center">
 
-## Getting Started
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
-This repository includes files with plain SQL that can be used to recreate a database:
+  <h3><b>Microverse README Template</b></h3>
 
-- Use [schema.sql](./schema.sql) to create all tables.
-- Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
+</div>
 
+<!-- TABLE OF CONTENTS -->
 
-## Authors
+# 📗 Table of Contents
 
-👤 **Author1**
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+<!-- PROJECT DESCRIPTION -->
 
-👤 **Author2**
+# 📖 [Morse code message] <a name="about-project"></a>
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+> **[Morse code message]**
+> In the project projects, we create an automated program that can help to decrypt a morse-message
 
-## 🤝 Contributing
+## 🛠 Built With <a name="built-with">Ruby</a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Created using Ruby]**
+- **[Decode Morse code message]**
+- **[Use of latest features]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](Coming soon)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Loom video <a name="live-demo"></a>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Set up your code editor
+
+### Prerequisites
+
+Setup GitHub.
+Install [Requirement ](Npm Install)
+
+### Setup
+
+- clone the Repo.
+- Install the dependencies
+- Enjoy
+
+### Deployment
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+👤 **ORJI MAXWELL**
+
+- GitHub: [@githubhandle](https://github.com/Maxwell011)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-maxwell/)
+
+👤 **Emem Ekpo**
+
+- GitHub: [@ecekpo](https://https://github.com/ecekpo)
+- Twitter: [@ememcookey](https://twitter.com/ememcookey)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emem-ekpo)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[We solved and decoded Morse code message]**
+- [ ] **[]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-## Acknowledgments
+## ⭐️ Show your support <a name="support"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+If you like this project create an issue with your comments.
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](./MIT.md) licensed.
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank Microverse.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+
+## ❓ FAQ <a name="faq"></a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
