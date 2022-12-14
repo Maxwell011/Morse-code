@@ -4,11 +4,11 @@
 
 ## Authors
 
-👤 \*\*\*\*
+👤 **Emem Ekpo**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@ecekpo](https://https://github.com/ecekpo)
+- Twitter: [@ememcookey](https://twitter.com/ememcookey)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/emem-ekpo)
 
 👤 **ORJI MAXWELL**
 
